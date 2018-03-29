@@ -39,7 +39,7 @@ your own experiences is highly encouraged!
 
 ### Prerequisites
 
-
+Bring your own laptop for note taking and for sharing your own examples.
 
 ### Attribution
 
