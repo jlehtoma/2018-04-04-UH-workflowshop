@@ -1,6 +1,6 @@
 ## Workshop: Managing your digital research assets
 
-**Instructor:** Joona Lehtomäki, University of Helsinki  
+**Instructor:** Joona Lehtomäki    
 **Time:** 2018-04-04, 9:00 - 12:00  
 **Place:**  Tiedekulma (Yliopistonkatu 4), meeting room L  
 
