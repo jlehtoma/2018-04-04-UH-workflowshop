@@ -1,8 +1,8 @@
 ## Workshop: Managing your digital research assets
 
-**Time:** 2018-04-04, 9:00 - 12:00  
-**Place:**  Tiedekulma (Yliopistonkatu 4), meeting room L  
-**Instructor:** Joona Lehtomäki   
+**Time:** 2018-04-04, 9:00 - 12:00
+**Place:**  Tiedekulma (Yliopistonkatu 4), meeting room L
+**Instructor:** Joona Lehtomäki
 
 ### Workshop topics
 
@@ -29,7 +29,6 @@ of managing your digital research assets. Questions addressed include:
 + How should I organize my code and data A) on my own computer, B) in "the cloud"
 + What should I consider when wrangling data to safeguard my own and my
 colleagues' emotional well-being?
-+ How can bind data and code together for reproducible analysis workflows?
 
 The workshop will present a highly opinionated view on various approaches,
 services and tools. In other words, it will not be a comprehensive
@@ -45,10 +44,6 @@ Bring your own laptop for note taking and for sharing your own examples.
 
 Instructions below adapted from  [Software Carpentry](https://swcarpentry.github.io/git-novice/) released under [CC BY 4.0-license](http://software-carpentry.org/license.html#cc-by).
 
-### Recommended reading
+### Workshop slides
 
-* Hampton S.E., Anderson S.S., Bagby S.C., Gries C., Han X., Hart E.M.,
-Jones M.B., Lenhardt C., MacDonald A., Michener W.K., Mudge J.,
-Pourmokhtarian A., Schildhauer M.P., Woo K.H., & Zimmerman N. (2015) [The Tao of
-open science for ecology](http://dx.doi.org/10.1890/ES14-00402.1). Ecosphere,
-6, 1–13.
+https://docs.google.com/presentation/d/1Wm0u1LwYAGX8WAsWPw_xRe2LWJ96THPypxGQlMxxgiA/edit?usp=sharing
