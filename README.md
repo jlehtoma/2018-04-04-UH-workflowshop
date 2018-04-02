@@ -1,14 +1,15 @@
 ## Workshop: Managing your digital research assets
 
-**Time:** 2018-04-04, 9:00 - 12:00
-**Place:**  Tiedekulma (Yliopistonkatu 4), meeting room L
-**Instructor:** Joona Lehtomäki
+**Time:** 2018-04-04, 9:00 - 12:00  
+**Place:**  Tiedekulma (Yliopistonkatu 4), meeting room L  
+**Instructor:** Joona Lehtomäki  
 
 ### Workshop topics
 
 * Data management planning
-* Best practices for organizing your code and data locally and remotely
-* Building coherent analysis workflows
+* Best practices for organizing your code and data
+* The concept of tidy data for tabular data
+* Version control
 
 ### Description
 
@@ -26,9 +27,10 @@ The purpose of this workshop is to share experiences in some of the core topics
 of managing your digital research assets. Questions addressed include:
 
 + What is data management planning and why should I care?
-+ How should I organize my code and data A) on my own computer, B) in "the cloud"
++ How should I organize my code and data?
 + What should I consider when wrangling data to safeguard my own and my
 colleagues' emotional well-being?
++ What are the basic principles of version control?
 
 The workshop will present a highly opinionated view on various approaches,
 services and tools. In other words, it will not be a comprehensive
